@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "eink-driver-kicad")(type "KiCad")(uri "${KIPRJMOD}/lib/eink-driver-kicad")(options "")(descr ""))
+)
